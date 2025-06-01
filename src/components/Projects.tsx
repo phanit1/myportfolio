@@ -63,6 +63,15 @@ const projects: Project[] = [
     tags: ['React.js', 'Material-UI', 'TypeScript'],
     liveUrl: 'https://tphani-portfolio-website.vercel.app/',
     githubUrl: 'https://github.com/phanit1/myportfolio',
+  },
+  {
+    id: 6,
+    title: 'IPL Website',
+    description: 'A comprehensive IPL 2025 web app featuring live match schedules, team points table, match predictions, and betting interface. Built with React and Material-UI for a modern, responsive experience.',
+    image: 'https://triprdx.com/wp-content/uploads/2025/03/IPL-2025-cover-final.jpg', // Sample IPL cricket match image from Unsplash
+    tags: ['React.js', 'Node.js', 'API Integration', 'Responsive Design'],
+    liveUrl: 'https://reactipl2025.vercel.app/',
+    githubUrl: 'https://github.com/phanit1/reactipl2025',
   }
 ];
 
