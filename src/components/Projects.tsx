@@ -61,8 +61,8 @@ const projects: Project[] = [
     description: 'Personal portfolio website built with React and Material-UI, featuring responsive design, dark mode support, and smooth animations. Showcases projects and professional experience.',
     image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg',
     tags: ['React.js', 'Material-UI', 'TypeScript'],
-    liveUrl: 'https://tphani-portfolio1.netlify.app/',
-    githubUrl: 'https://github.com/phanit1',
+    liveUrl: 'https://tphani-portfolio-website.vercel.app/',
+    githubUrl: 'https://github.com/phanit1/myportfolio',
   }
 ];
 

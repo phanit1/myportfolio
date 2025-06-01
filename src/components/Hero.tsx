@@ -51,11 +51,11 @@ const Hero: React.FC = () => {
             fontWeight="bold"
             sx={{ mb: 2 }}
           >
-            Hi, I'm <Box component="span" color="primary.main">Phaneendhar Thota</Box>
+            Hi, I'm <Typography component="h1" variant='h2' fontWeight="bold" color="primary.main">Phaneendhar Thota</Typography>
           </Typography>
           
           <Box>
-            <Typography variant="h4" className="typing-text">
+            <Typography variant="h4">
               Full Stack Developer
             </Typography>
           </Box>
